@@ -1,26 +1,13 @@
-<!--### Hi there 👋
-
-**kazyamov/kazyamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 ## About
 
-The beginning of my career was working in a small online store in Krasnoyarsk (Siberia). I was fascinated by working with clients and improving order picking and delivery algorithms.
+In 2023, I decided to take my life into new hands and went to School 21, an educational project from Sber for developers. This decision was a key moment in my personal and professional growth. Although I had no previous experience in programming, I was ready for a new challenge and determined to explore this fascinating field.
 
-As an online store manager, I have been involved in sales and customer service for 2 regional and 3 federal online stores for 6 years.
+At School 21, I was surrounded by a quality educational environment and opportunities for self-development. The curriculum provided me not only with fundamental programming knowledge, but also stimulated my creative thinking and problem-solving abilities. Through intensive immersion in the world of coding, I quickly gained confidence and passion for the activity.
 
-After that, I began to look for opportunities to work remotely and influence processes more, so I started freelancing in the field of social media marketing and graphic design.
+Upon entering School 21, I realized that this choice was perfect for me. My passion for coding became the foundation for my personal and professional growth. Although I had no experience in this field up to that point, I am proud of my accomplishments and continue to strive for excellence in the world of technology.
 
-Over time, I rethought my career and realized that I was fascinated by the technical side of online sales and I began training as a developer.
-
-## I am currently a student at School 21.
-  * And [channel](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) about lifestyle, remote work and hobbies [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYLIThkSR1JmUoxLXtc-S9w)](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) 
-  * Content creating  for my [LinkedIn account](https://www.linkedin.com/feed/hashtag/?keywords=kaziamov)
-  * Creating a graphic design for my [Instagram account](https://instagram.com/kaziamov_) about Python
-  * [School 21](https://www.google.com/url?sa=i&url=https%3A%2F%2Fotzovik.com%2Freviews%2Fshkola_21_russia_moscow%2F&psig=AOvVaw0Kndblty8MJUYcQH6ZC8Zm&ust=1707761436570000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjljqDxo4QDFQAAAAAdAAAAABAR)(https://21-school.ru/)
-  * And writing code
+## I am currently a student at School 21. 
+  * [School 21](https://www.google.com/url?sa=i&url=https%3A%2F%2Fotzovik.com%2Freviews%2Fshkola_21_russia_moscow%2F&psig=AOvVaw0Kndblty8MJUYcQH6ZC8Zm&ust=1707761436570000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjljqDxo4QDFQAAAAAdAAAAABAR)](https://21-school.ru/)
 
 <!--
 ## What I'm planning to do
