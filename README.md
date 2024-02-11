@@ -9,18 +9,10 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 ## I am currently a student at School 21. 
 [![School 21](https://pbs.twimg.com/profile_images/1067064526896545792/TIPYe1lI_400x400.jpg)](https://21-school.ru/)
 
-<!--
-## What I'm planning to do
-
-## I’m currently learning ...
-
-## 👯 I’m looking to collaborate on ...
-## 🤔 I’m looking for help with ...
-## 💬 Ask me about graphic design, marketing or psychology
-## 📫 How to reach me: ...
-## 😄 Pronouns: ...
-## ⚡ Fun fact: ...
--->
+### Languages and Tools 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgreSQL&logoColor=4682B4) 
+![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring&logoColor=#00FF00) 
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=00008B)
 
 ## Contacts
 
