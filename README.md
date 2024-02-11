@@ -10,10 +10,10 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 [![School 21](https://pbs.twimg.com/profile_images/1067064526896545792/TIPYe1lI_400x400.jpg)](https://21-school.ru/)
 
 ### Languages and Tools 
-![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) 
-![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
 ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
+![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
+![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) 
 
 ## Contacts
 
