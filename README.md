@@ -7,7 +7,7 @@ At School 21, I was surrounded by a quality educational environment and opportun
 Upon entering School 21, I realized that this choice was perfect for me. My passion for coding became the foundation for my personal and professional growth. Although I had no experience in this field up to that point, I am proud of my accomplishments and continue to strive for excellence in the world of technology.
 
 ## I am currently a student at School 21. 
-  * [![School 21](https://pbs.twimg.com/profile_images/1067064526896545792/TIPYe1lI_400x400.jpg)](https://21-school.ru/)
+[![School 21](https://pbs.twimg.com/profile_images/1067064526896545792/TIPYe1lI_400x400.jpg)](https://21-school.ru/)
 
 <!--
 ## What I'm planning to do
