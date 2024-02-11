@@ -13,7 +13,9 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgreSQL&logoColor=4682B4) 
 ![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring&logoColor=#00FF00) 
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=00008B)
-![Java](https://img.shields.io/open-vsx/dt/:namespace/:extension)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ## Contacts
 
 * Email: [cafenero19@gmail.com](mailto:cafenero19@gmail.com)
