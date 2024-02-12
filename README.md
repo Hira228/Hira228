@@ -21,10 +21,24 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 * Telegram: [@hira1337](https://t.me/hira1337)
 
 ## Badges
-<br>
+[![LeetCode Stats](https://leetcode.card.workers.dev/Hira228?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/Hira228/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hira228)](https://github.com/Hira228/github-readme-stats)
+<!-- ## How is it going? Very well... -->
 
-<a href="https://leetcode.card.workers.dev/Hira228?theme=dark&font=source_code_pro&extension=null">
-  <img align="left" width="450" src="https://leetcode.com/Hira228/" />
+
+### “First, solve the problem. Then, write the code.” – John Johnson
+
+- 🌱 I’m currently learning Networks, Neural Networks, Distributed Systems And Transactions
+
+### Links:
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/ilyak11)
+[![LinkedIn Badge](https://img.shields.io/badge/-Linked%20In-9cf?style=for-the-badge)](https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D0%BA%D0%BE%D0%BB%D0%B5%D1%81%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-325808235/)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](mailto:kolesnikov.ilya.212000@gmail.com)
+
+<br>
+<a href="https://leetcode.com/Hira228/">
+  <img align="left" width="450" src="https://leetcode.card.workers.dev/Hira228?theme=dark&font=source_code_pro&extension=null" />
 </a>
 
 <a href="https://github.com/Hira228/github-readme-stats">
