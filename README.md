@@ -19,7 +19,6 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 
 * Email: [cafenero19@gmail.com](mailto:cafenero19@gmail.com)
 * Telegram: [@hira1337](https://t.me/hira1337)
-* Whatsapp: [+79133175446](https://wa.me/79133175446)
 
 ## Badges
 [![LeetCode Stats](https://leetcode.card.workers.dev/Hira228?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/Hira228/)
