@@ -22,5 +22,5 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 
 ## Badges
 [![LeetCode Stats](https://leetcode.card.workers.dev/Hira228?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/Hira228/)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hira228)](https://github.com/Hira228/github-readme-stats)
 <!-- ## How is it going? Very well... -->
