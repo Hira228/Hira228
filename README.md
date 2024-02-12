@@ -21,6 +21,14 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 * Telegram: [@hira1337](https://t.me/hira1337)
 
 ## Badges
-[![LeetCode Stats](https://leetcode.card.workers.dev/Hira228?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/Hira228/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hira228)](https://github.com/Hira228/github-readme-stats)
-<!-- ## How is it going? Very well... -->
+<br>
+
+<a href="https://leetcode.card.workers.dev/Hira228?theme=dark&font=source_code_pro&extension=null">
+  <img align="left" width="450" src="https://leetcode.com/Hira228/" />
+</a>
+
+<a href="https://github.com/Hira228/github-readme-stats">
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=Hira228" />
+</a>
+
+<br clear="all" />
