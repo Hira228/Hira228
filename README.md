@@ -27,7 +27,7 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Hira228&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Hira228&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </a>
 
 <br clear="all" />
