@@ -26,8 +26,8 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
   <img align="left" width="400" src="https://leetcode.card.workers.dev/Hira228?theme=dark&font=source_code_pro&extension=null" />
 </a>
 
-<a href="https://github.com/Hira228/github-readme-stats">
-  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Hira228" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Hira228&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </a>
 
 <br clear="all" />
