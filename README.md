@@ -23,10 +23,4 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 ## Badges
 [![LeetCode Stats](https://leetcode.card.workers.dev/Hira228?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/Hira228/)
 
-<div style="background-color: #f0f0f0; padding: 10px;">
-    <h3>Project Name</h3>
-    <p>Description of the project...</p>
-    <a href="https://github.com/Hira228/JavaBootcamp07">Link to the repository</a>
-</div>
-
 <!-- ## How is it going? Very well... -->
