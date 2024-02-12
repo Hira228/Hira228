@@ -23,11 +23,11 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 ## Badges
 <br>
 <a href="https://leetcode.com/Hira228/">
-  <img align="left" width="450" src="https://leetcode.card.workers.dev/Hira228?theme=dark&font=source_code_pro&extension=null" />
+  <img align="left" width="400" src="https://leetcode.card.workers.dev/Hira228?theme=dark&font=source_code_pro&extension=null" />
 </a>
 
 <a href="https://github.com/Hira228/github-readme-stats">
-  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Hira228" />
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Hira228" />
 </a>
 
 <br clear="all" />
