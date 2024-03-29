@@ -36,7 +36,6 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 
 ## Pins:
 
-[![JavaBootcamp07](https://github-readme-stats.vercel.app/api/pin/?username=Hira228&repo=JavaBootcamp07&theme=gotham&cache_seconds=2000)](https://github.com/Hira228/JavaBootcamp07)
-[![JavaBootcamp08](https://github-readme-stats.vercel.app/api/pin/?username=Hira228&repo=JavaBootcamp08&theme=gotham&cache_seconds=2000)](https://github.com/Hira228/JavaBootcamp08)
-[![MLP](https://github-readme-stats.vercel.app/api/pin/?username=Hira228&repo=MLP&theme=gotham&cache_seconds=2000)](https://github.com/Hira228/MLP)
-[![Maze](https://github-readme-stats.vercel.app/api/pin/?username=Hira228&repo=Maze&theme=gotham&cache_seconds=2000)](https://github.com/Hira228/Maze)
+[![Bank-REST](https://github-readme-stats.vercel.app/api/pin/?username=Hira228&repo=Bank&theme=gotham&cache_seconds=2000)](https://github.com/Hira228/Bank)
+[![MaMa's Coffee](https://github-readme-stats.vercel.app/api/pin/?username=Hira228&repo=MaMa-s-Coffee&theme=gotham&cache_seconds=2000)](https://github.com/Hira228/MaMa-s-Coffee)
+
