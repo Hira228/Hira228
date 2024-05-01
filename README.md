@@ -38,7 +38,7 @@ Upon entering School 21, I realized that this choice was perfect for me. My pass
 ## Pins:
 
 [![Bank-REST](https://github-readme-stats.vercel.app/api/pin/?username=Hira228&repo=Business-Travel-Service-Hackathon-MTS&theme=gotham&cache_seconds=2000)](https://github.com/Hira228/Business-Travel-Service-Hackathon-MTS)
-[![Bank-REST](https://github-readme-stats.vercel.app/api/pin/?username=Hira228&repo=Bank&theme=gotham&cache_seconds=2000)](https://github.com/Hira228/Bank)
 [![MaMa's Coffee](https://github-readme-stats.vercel.app/api/pin/?username=Hira228&repo=MaMa-s-Coffee&theme=gotham&cache_seconds=2000&title=MaMa's+Coffee+-+Distributed+Coffee+Shop+System)](https://github.com/Hira228/MaMa-s-Coffee)
+[![Bank-REST](https://github-readme-stats.vercel.app/api/pin/?username=Hira228&repo=Bank&theme=gotham&cache_seconds=2000)](https://github.com/Hira228/Bank)
 [![MLP](https://github-readme-stats.vercel.app/api/pin/?username=Hira228&repo=MLP&theme=gotham&cache_seconds=2000&title=MLP+-+Distributed+Coffee+Shop+System)](https://github.com/Hira228/MLP)
 
